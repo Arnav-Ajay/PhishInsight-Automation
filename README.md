@@ -1,6 +1,6 @@
 # PhishInsight Automation (PoC)
 
-![Try It Live](https://phishinsight-automation.streamlit.app/)
+Try It Live: https://phishinsight-automation.streamlit.app/
 
 ## 1. Executive Summary
 
